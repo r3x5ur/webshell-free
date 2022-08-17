@@ -9,7 +9,7 @@ webshell免杀案例
 
 
 
-包含一下大佬开发的两个项目
+包含大佬开发的两个项目
 
 ✅ [JSP-Webshells](https://github.com/yzddmr6/JSP-Webshells.git)
 
